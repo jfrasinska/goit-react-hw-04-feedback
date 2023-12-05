@@ -1,4 +1,4 @@
-# Contact Book App
+# Feedback App
 
 This is app for collecting feedback from cafe clients.
 
