@@ -1,6 +1,6 @@
 # Contact Book App
 
-This is app for phone contacts list.
+This is app for collecting feedback from cafe clients.
 
 ## Demo
 
